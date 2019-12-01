@@ -1,0 +1,11 @@
+C:\Users\Salar\source\repos\EventApp\EventApp\bin\Debug\netcoreapp2.1\EventApp.deps.json
+C:\Users\Salar\source\repos\EventApp\EventApp\bin\Debug\netcoreapp2.1\EventApp.runtimeconfig.json
+C:\Users\Salar\source\repos\EventApp\EventApp\bin\Debug\netcoreapp2.1\EventApp.runtimeconfig.dev.json
+C:\Users\Salar\source\repos\EventApp\EventApp\bin\Debug\netcoreapp2.1\EventApp.dll
+C:\Users\Salar\source\repos\EventApp\EventApp\bin\Debug\netcoreapp2.1\EventApp.pdb
+C:\Users\Salar\source\repos\EventApp\EventApp\obj\Debug\netcoreapp2.1\EventApp.csprojAssemblyReference.cache
+C:\Users\Salar\source\repos\EventApp\EventApp\obj\Debug\netcoreapp2.1\EventApp.csproj.CoreCompileInputs.cache
+C:\Users\Salar\source\repos\EventApp\EventApp\obj\Debug\netcoreapp2.1\EventApp.AssemblyInfoInputs.cache
+C:\Users\Salar\source\repos\EventApp\EventApp\obj\Debug\netcoreapp2.1\EventApp.AssemblyInfo.cs
+C:\Users\Salar\source\repos\EventApp\EventApp\obj\Debug\netcoreapp2.1\EventApp.dll
+C:\Users\Salar\source\repos\EventApp\EventApp\obj\Debug\netcoreapp2.1\EventApp.pdb
